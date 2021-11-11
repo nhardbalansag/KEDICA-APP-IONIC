@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Kedica-App-Ionic-React",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
